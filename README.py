@@ -1,7 +1,7 @@
 # pythonista
 #Simple python program for calculator which allows you to perform single operation twice
 #program is written using if-elif, if-else conditions
-#I developed this program using jupyter (take care about indentations)
+#I had developed this program using jupyter (take care about indentations)
 
 print("Hi!")
 x=input("enter the first number:")
